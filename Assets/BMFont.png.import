@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/BMFont.png-31b753395b572e0a865515586c0e1911.res"
+
+[deps]
+
+source_file="res://Assets/BMFont.png"
+dest_files=[ "res://.import/BMFont.png-31b753395b572e0a865515586c0e1911.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5

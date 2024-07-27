@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Scripts/Star.cs" type="Script" id=1]
+
+[node name="Star" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="StarName" type="Label" parent="."]
+margin_right = 89.0
+margin_bottom = 14.0
+text = "Name"
+
+[node name="StarElement" type="Label" parent="."]
+margin_top = 14.0
+margin_right = 89.0
+margin_bottom = 28.0
+text = "Element"
+
+[node name="StarMagnitude" type="Label" parent="."]
+margin_top = 28.0
+margin_right = 89.0
+margin_bottom = 42.0
+text = "Magnitude"
